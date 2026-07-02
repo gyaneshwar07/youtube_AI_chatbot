@@ -143,5 +143,6 @@ Gyaneshwar Kumar
 - LinkedIn: https://www.linkedin.com/in/gyaneshwar-kumar-7744472a3/
 
 ---
+Note: Due to YouTube restrictions on cloud-hosted IP addresses, the application is intended to run locally. It works correctly in a local environment.
 
 ⭐ If you found this project helpful, consider giving it a star!
